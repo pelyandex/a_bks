@@ -1,7 +1,7 @@
 <template>
   <div class="home">
     <Header />
-    <h1>Продуктовая витрина с&nbsp;фильтрацией уровня риска</h1>
+    <h1>Продуктовая витрина с фильтрацией уровня риска</h1>
     <Selects @change='filterProducts'/>
     <Cards :filtered='filtered' :pageCount='pageCount'/>
     <Pagination :filtered='filtered' @clicked='pageSwap'/>
@@ -51,11 +51,14 @@ export default {
 <style lang="scss" scoped>
   h1{
     text-align: center;
+    display: block;
+    width: 75%;
+    margin: 2% auto;
     @media screen and (max-width: 515px) {
-        margin: 8% 4%;
-      }
-    @media screen and (max-width: 360px) {
-      margin: 8% 3%;
+      margin: 6% auto;
+    }
+    @media screen and (max-width: 375px) {
+      width: 80%;
     }
   }
 </style>

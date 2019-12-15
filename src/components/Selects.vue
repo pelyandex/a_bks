@@ -45,6 +45,12 @@ export default {
 </script>
 <style lang="scss" scoped>
   .select {
-    padding: 0 15%;
-  }
+    width: 75%;
+    margin: 0 auto;
+    @media screen and (max-width: 515px) {
+      width: 70%;
+      display: flex;
+      justify-content: space-evenly;
+    }
+}
 </style>

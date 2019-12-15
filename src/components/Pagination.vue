@@ -15,6 +15,7 @@ export default {
       this.$emit('clicked', ev)
     },
     startClicked () {
+      // Метод задает стартовые 6 карточек
       this.clicked(1)
     }
   },
@@ -28,6 +29,9 @@ export default {
  .el-pagination {
    display: flex;
   justify-content: center;
-  margin: 30px 0;
+  margin: 30px auto;
+  @media screen and (max-width: 360px) {
+      width: 80%;
+  }
  }
 </style>

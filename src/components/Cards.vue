@@ -59,7 +59,8 @@ export default {
       grid-template-columns: 1fr 1fr
     }
     @media screen and (max-width: 450px) {
-      width: 62%;
+      width: 70%;
+      justify-items: center;
       grid-template-columns: 1fr
     }
     @media screen and (max-width: 360px) {
