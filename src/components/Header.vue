@@ -14,6 +14,11 @@
     padding: .5% 3%;
     span {
       font-size: 0.9rem;
+      @media screen and (max-width: 515px) {
+        position: absolute;
+        top: 7%;
+        right: 0;
+      }
     }
     img{
       width: 220px;

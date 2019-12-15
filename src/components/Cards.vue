@@ -55,6 +55,16 @@ export default {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     grid-gap: 2vw;
+    @media screen and (max-width: 768px) {
+      grid-template-columns: 1fr 1fr
+    }
+    @media screen and (max-width: 450px) {
+      width: 62%;
+      grid-template-columns: 1fr
+    }
+    @media screen and (max-width: 360px) {
+      width: 80%;
+    }
     .card {
       border: 1px solid gainsboro;
       border-radius: 15px;
