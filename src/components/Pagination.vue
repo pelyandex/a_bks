@@ -1,5 +1,6 @@
 <template>
   <el-pagination
+  v-scroll-to="'#element'"
   :page-size="6"
   layout="prev, pager, next"
   @current-change='clicked'

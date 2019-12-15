@@ -1,5 +1,5 @@
 <template>
-  <div class='select'>
+  <div class='select' id="element">
     <el-select v-model="value" placeholder="Все" size="small" @change="filter">
       <el-option
         v-for="item in options"
