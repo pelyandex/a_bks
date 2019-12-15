@@ -1,0 +1,794 @@
+[
+  {
+    "_id": "1",
+    "code": "0BD33845-DC77-45E5-B7D9-0C3CB5DEB5D3",
+    "name": "Газпром с гарантированным доходом",
+    "min_sum": "300000.00",
+    "currency": "RUB",
+    "type_name": "Пороговый",
+    "participation_rate": null,
+    "direction": "Рост",
+    "additional_koeff": null,
+    "preterm_koeff": null,
+    "price_koeff": null,
+    "delivery_koeff": null,
+    "capital_protection_level": "10.000000",
+    "barrier": "1.0000",
+    "delivery_price_percent": null,
+    "nominal": null,
+    "period_quantity": null,
+    "risk_ratio": "0.0000",
+    "period_length": null,
+    "is_actual": true,
+    "risk_profile": "31CDEAC8-2FA3-4DB2-AB02-1E6F89C1D493",
+    "is_investment_idea": true,
+    "calculated_rate": null,
+    "barrier2": null,
+    "calculation_currency": "RUB",
+    "contract": {
+      "execution_date": "2020-03-13"
+    },
+    "expected_income": {
+      "first": "14.00",
+      "second": null
+    },
+    "period": {
+      "start_date": "2019-12-10T18:01:00",
+      "stop_date": "2019-12-12T18:00:00"
+    },
+    "base_assets_list": {
+      "base_asset": {
+        "id": "356D00A0-41B0-4D66-93F0-673455A4D0AF",
+        "price_execution": null,
+        "name": {
+          "full": "ПАО \"Газпром\"",
+          "short": "Газпром",
+          "code": "GAZP"
+        },
+        "base_asset_currency": "российский рубль",
+        "issuer_name": "ПАО \"Газпром\", ",
+        "kind": "1 (одна) обыкновенная акция ",
+        "isin": "ISIN RU0007661625",
+        "state_reg_number": null,
+        "type_account_depo": "TS1",
+        "stock_exchange_name": "ПАО Московская Биржа",
+        "transcript": "1 (одна) обыкновенная акция ПАО \"Газпром\", ISIN RU0007661625 - ценная бумага ПАО \"Газпром\", которой присвоены коды ISIN RU0007661625 и CFI ESVXFR, номер государственной регистрации выпуска 1-02-00028-A, квалифицированная как акция, обращающаяся на бирже ПАО Московская Биржа.",
+        "weight_koeff": null,
+        "type": "Российские акции"
+      }
+    },
+    "props": null,
+    "updated_at": "2019-12-10 16:19:44",
+    "created_at": "2019-12-10 16:19:44"
+  },
+  {
+    "_id": "5def9b8e7ebecb44566292d2",
+    "code": "C2636CF3-66A7-47B8-923D-FCBF972B60E9",
+    "name": "Растущий доллар с гарантированным доходом",
+    "min_sum": "50000.00",
+    "currency": "RUB",
+    "type_name": "Пороговый",
+    "participation_rate": null,
+    "direction": "Рост",
+    "additional_koeff": null,
+    "preterm_koeff": null,
+    "price_koeff": null,
+    "delivery_koeff": null,
+    "capital_protection_level": "10.000000",
+    "barrier": "1.1000",
+    "delivery_price_percent": null,
+    "nominal": null,
+    "period_quantity": null,
+    "risk_ratio": "0.0000",
+    "period_length": null,
+    "is_actual": true,
+    "risk_profile": "31CDEAC8-2FA3-4DB2-AB02-1E6F89C1D493",
+    "is_investment_idea": true,
+    "calculated_rate": null,
+    "barrier2": null,
+    "calculation_currency": "RUB",
+    "contract": {
+      "execution_date": "2020-03-13"
+    },
+    "expected_income": {
+      "first": "22.00",
+      "second": null
+    },
+    "period": {
+      "start_date": "2019-12-10T18:01:00",
+      "stop_date": "2019-12-12T18:00:00"
+    },
+    "base_assets_list": {
+      "base_asset": {
+        "id": "B3FC165E-6699-4051-9B9E-3449BE904A06",
+        "price_execution": null,
+        "name": {
+          "full": "курс USD",
+          "short": "USD/RUB",
+          "code": "USD"
+        },
+        "base_asset_currency": "российский рубль",
+        "issuer_name": "по отношению к рублю РФ",
+        "kind": "Курс доллара США ",
+        "isin": ".",
+        "state_reg_number": null,
+        "type_account_depo": null,
+        "stock_exchange_name": "-",
+        "transcript": "Официальный курс доллара США к российскому рублю, установленный ЦБ РФ",
+        "weight_koeff": null,
+        "type": "Валюта"
+      }
+    },
+    "props": {
+      "_id": "5dc918667ebecb4f8165ae22",
+      "offer_name": "Растущий доллар с гарантированным доходом",
+      "color": "#37a7af",
+      "disclaimer": "",
+      "slug": "rub",
+      "subtitle": "",
+      "preview_picture": "",
+      "detail_picture": "/storage/media/86447b450320d1461521afccc1bedc2b.svg",
+      "updated_at": "2019-11-11 11:14:30",
+      "created_at": "2019-11-11 11:14:30"
+    },
+    "updated_at": "2019-12-10 16:20:14",
+    "created_at": "2019-12-10 16:20:14"
+  },
+  {
+    "_id": "5def9ba27ebecb79562c6d02",
+    "code": "E21D2DAE-42B3-42EC-84F6-3A84C0B90420",
+    "name": "Растущая нефть с гарантированным доходом",
+    "min_sum": "10000.00",
+    "currency": "RUB",
+    "type_name": "Пороговый",
+    "participation_rate": null,
+    "direction": "Рост",
+    "additional_koeff": null,
+    "preterm_koeff": null,
+    "price_koeff": null,
+    "delivery_koeff": null,
+    "capital_protection_level": "8.000000",
+    "barrier": "1.0800",
+    "delivery_price_percent": null,
+    "nominal": null,
+    "period_quantity": null,
+    "risk_ratio": "0.0000",
+    "period_length": null,
+    "is_actual": true,
+    "risk_profile": "31CDEAC8-2FA3-4DB2-AB02-1E6F89C1D493",
+    "is_investment_idea": true,
+    "calculated_rate": null,
+    "barrier2": null,
+    "calculation_currency": "RUB",
+    "contract": {
+      "execution_date": "2020-06-13"
+    },
+    "expected_income": {
+      "first": "13.00",
+      "second": null
+    },
+    "period": {
+      "start_date": "2019-12-10T18:01:00",
+      "stop_date": "2019-12-12T18:00:00"
+    },
+    "base_assets_list": {
+      "base_asset": {
+        "id": "40E12D8A-2DC1-4BCD-A5AE-46714BD08E2F",
+        "price_execution": null,
+        "name": {
+          "full": "Один баррель сырой нефти сорта «Brent»",
+          "short": "нефть марки Brent",
+          "code": "Brent"
+        },
+        "base_asset_currency": "доллар США",
+        "issuer_name": "Один баррель сырой нефти сорта «Brent» ",
+        "kind": null,
+        "isin": null,
+        "state_reg_number": null,
+        "type_account_depo": null,
+        "stock_exchange_name": "-",
+        "transcript": "Нефть - один баррель сырой нефти сорта «Brent».",
+        "weight_koeff": null,
+        "type": "Товары"
+      }
+    },
+    "props": {
+      "_id": "5dc9189e7ebecb4f7d30abc4",
+      "offer_name": "Растущая нефть с гарантированным доходом",
+      "color": "#36015f",
+      "disclaimer": "",
+      "slug": "oil",
+      "subtitle": "",
+      "preview_picture": "",
+      "detail_picture": "/storage/media/8217c0ccab3e453970d7f6894562d1b2.svg",
+      "updated_at": "2019-11-11 11:15:26",
+      "created_at": "2019-11-11 11:15:26"
+    },
+    "updated_at": "2019-12-10 16:20:34",
+    "created_at": "2019-12-10 16:20:34"
+  },
+  {
+    "_id": "5def9bac7ebecb0a94200ec2",
+    "code": "654E3B7A-CE65-4EA6-A5D0-021A1DE93443",
+    "name": "Яндекс – инвестиции в лидера IT",
+    "min_sum": "10000.00",
+    "currency": "RUB",
+    "type_name": "Участие EB",
+    "participation_rate": null,
+    "direction": "Рост",
+    "additional_koeff": null,
+    "preterm_koeff": null,
+    "price_koeff": null,
+    "delivery_koeff": null,
+    "capital_protection_level": "0.000000",
+    "barrier": "1.0000",
+    "delivery_price_percent": null,
+    "nominal": null,
+    "period_quantity": null,
+    "risk_ratio": "0.5000",
+    "period_length": null,
+    "is_actual": true,
+    "risk_profile": "31CDEAC8-2FA3-4DB2-AB02-1E6F89C1D493",
+    "is_investment_idea": true,
+    "calculated_rate": null,
+    "barrier2": null,
+    "calculation_currency": "RUB",
+    "contract": {
+      "execution_date": "2020-03-13"
+    },
+    "expected_income": {
+      "first": null,
+      "second": null
+    },
+    "period": {
+      "start_date": "2019-12-10T18:01:00",
+      "stop_date": "2019-12-12T18:00:00"
+    },
+    "base_assets_list": {
+      "base_asset": {
+        "id": "E011777E-C428-4173-81A4-16198BCE4C29",
+        "price_execution": null,
+        "name": {
+          "full": "Yandex N.V.",
+          "short": "Яндекс",
+          "code": "YNDX"
+        },
+        "base_asset_currency": "российский рубль",
+        "issuer_name": "PLLC Yandex N.V., ",
+        "kind": "1 (одна) обыкновенная акция класса А ",
+        "isin": "ISIN NL0009805522",
+        "state_reg_number": null,
+        "type_account_depo": "TS1",
+        "stock_exchange_name": "ПАО Московская Биржа",
+        "transcript": "1 (одна) обыкновенная акция класса А PLLC Yandex N.V., ISIN NL0009805522 - ценная бумага YANDEX N V, которой присвоены коды ISIN NL0009805522 и CFI ESVUFN, квалифицированная как акция (согласно Указанию Банка России от 03.10.2017 № 4561-У «О порядке квалификации иностранных финансовых инструментов в качестве ценных бумаг»), обращающаяся на бирже ПАО Московская Биржа.",
+        "weight_koeff": "1.0000",
+        "type": "Иностранные акции"
+      }
+    },
+    "props": {
+      "_id": "5db1d9267ebecb565d529383",
+      "offer_name": "Яндекс – инвестиции в лидера IT",
+      "color": "#c90b08",
+      "disclaimer": "",
+      "slug": "yandex",
+      "subtitle": "",
+      "preview_picture": "",
+      "detail_picture": "/storage/media/285d6ada0bda670f55048d16cf55a97c.svg",
+      "updated_at": "2019-10-24 20:08:15",
+      "created_at": "2019-10-24 20:02:30"
+    },
+    "updated_at": "2019-12-10 16:20:44",
+    "created_at": "2019-12-10 16:20:44"
+  },
+  {
+    "_id": "5def9bc17ebecb0a9e1cbd93",
+    "code": "2A9CD08E-B7C1-4613-84D4-CCD06D5AE7A8",
+    "name": "Сбербанк – инвестиции в прибыльный банк",
+    "min_sum": "10000.00",
+    "currency": "RUB",
+    "type_name": "Участие EB",
+    "participation_rate": "1.25",
+    "direction": "Рост",
+    "additional_koeff": null,
+    "preterm_koeff": null,
+    "price_koeff": null,
+    "delivery_koeff": null,
+    "capital_protection_level": "0.000000",
+    "barrier": "1.0000",
+    "delivery_price_percent": null,
+    "nominal": null,
+    "period_quantity": null,
+    "risk_ratio": "0.5000",
+    "period_length": null,
+    "is_actual": true,
+    "risk_profile": "31CDEAC8-2FA3-4DB2-AB02-1E6F89C1D493",
+    "is_investment_idea": true,
+    "calculated_rate": null,
+    "barrier2": null,
+    "calculation_currency": "RUB",
+    "contract": {
+      "execution_date": "2020-03-13"
+    },
+    "expected_income": {
+      "first": null,
+      "second": null
+    },
+    "period": {
+      "start_date": "2019-12-10T18:01:00",
+      "stop_date": "2019-12-12T18:00:00"
+    },
+    "base_assets_list": {
+      "base_asset": {
+        "id": "6EA0B21B-B75F-4114-A1EE-C5678BC2C8AC",
+        "price_execution": null,
+        "name": {
+          "full": "ПАО Сбербанк",
+          "short": "Сбербанк",
+          "code": "SBER"
+        },
+        "base_asset_currency": "российский рубль",
+        "issuer_name": "ПАО Сбербанк, ",
+        "kind": "1 (одна) обыкновенная акция ",
+        "isin": "ISIN RU0009029540",
+        "state_reg_number": null,
+        "type_account_depo": "TS1",
+        "stock_exchange_name": "ПАО Московская Биржа",
+        "transcript": "1 (одна) обыкновенная акция ПАО \"Сбербанк России\", ISIN RU0009029540 - ценная бумага ПАО Сбербанк , которой присвоены коды ISIN RU0009029540 и CFI ESVXFR, номер государственной регистрации выпуска 10301481B, квалифицированная как акция, обращающаяся на бирже ПАО Московская Биржа.",
+        "weight_koeff": "1.0000",
+        "type": "Российские акции"
+      }
+    },
+    "props": {
+      "_id": "5db1d8bb7ebecb4aa25307c2",
+      "offer_name": "Сбербанк – инвестиции в прибыльный банк",
+      "color": "#4f9c1d",
+      "disclaimer": "",
+      "slug": "sber",
+      "subtitle": "",
+      "preview_picture": "",
+      "detail_picture": "/storage/media/7be813b404b5032d7d1a56b743928199.svg",
+      "updated_at": "2019-10-24 20:07:36",
+      "created_at": "2019-10-24 20:00:43"
+    },
+    "updated_at": "2019-12-10 16:21:05",
+    "created_at": "2019-12-10 16:21:05"
+  },
+  {
+    "_id": "5def9bd57ebecb79475cfb03",
+    "code": "E0E3E71B-E996-4A1B-A3C9-F1A3E947CC94",
+    "name": "Albemarle – инвестиции в производителя лития",
+    "min_sum": "10000.00",
+    "currency": "RUB",
+    "type_name": "Участие EB",
+    "participation_rate": "1.25",
+    "direction": "Рост",
+    "additional_koeff": null,
+    "preterm_koeff": null,
+    "price_koeff": null,
+    "delivery_koeff": null,
+    "capital_protection_level": "0.000000",
+    "barrier": "1.0000",
+    "delivery_price_percent": null,
+    "nominal": null,
+    "period_quantity": null,
+    "risk_ratio": "0.5000",
+    "period_length": null,
+    "is_actual": true,
+    "risk_profile": "31CDEAC8-2FA3-4DB2-AB02-1E6F89C1D493",
+    "is_investment_idea": true,
+    "calculated_rate": null,
+    "barrier2": null,
+    "calculation_currency": "RUB",
+    "contract": {
+      "execution_date": "2020-03-13"
+    },
+    "expected_income": {
+      "first": null,
+      "second": null
+    },
+    "period": {
+      "start_date": "2019-12-10T18:01:00",
+      "stop_date": "2019-12-12T18:00:00"
+    },
+    "base_assets_list": {
+      "base_asset": {
+        "id": "E593EC44-B032-4F3D-B082-60B4871C2A0B",
+        "price_execution": null,
+        "name": {
+          "full": "Albemarle Corp",
+          "short": "Albemarle",
+          "code": "ALB"
+        },
+        "base_asset_currency": "доллар США",
+        "issuer_name": "Albemarle Corp., ",
+        "kind": "1 (одна) обыкновенная акция ",
+        "isin": "ISIN US0126531013",
+        "state_reg_number": null,
+        "type_account_depo": "TS3",
+        "stock_exchange_name": "New York Stock Exchange LLC",
+        "transcript": "1 (одна) обыкновенная акция Albemarle Corp., ISIN US0126531013 - ценная бумага ALBEMARLE CORP, которой присвоены коды ISIN US0126531013 и CFI ESVUFR, квалифицированная как акция (согласно Указанию Банка России от 03.10.2017 № 4561-У «О порядке квалификации иностранных финансовых инструментов в качестве ценных бумаг»), обращающаяся на бирже New York Stock Exchange LLC (Нью Йорк Сток Эксчендж ЭлЭлСи).",
+        "weight_koeff": "1.0000",
+        "type": "Иностранные акции"
+      }
+    },
+    "props": {
+      "_id": "5db1d89d7ebecb56523b5593",
+      "offer_name": "Albemarle – инвестиции в производителя лития",
+      "color": "#70c6a8",
+      "disclaimer": "",
+      "slug": "albemarle",
+      "subtitle": "",
+      "preview_picture": "",
+      "detail_picture": "/storage/media/a4bae7d86e3588c65379e307871c0fda.svg",
+      "updated_at": "2019-10-24 20:07:21",
+      "created_at": "2019-10-24 20:00:13"
+    },
+    "updated_at": "2019-12-10 16:21:25",
+    "created_at": "2019-12-10 16:21:25"
+  },
+  {
+    "_id": "5def9be97ebecb0a9d36c662",
+    "code": "EFEA72C9-11DE-46A2-9DC7-3BAE13779845",
+    "name": "McDonald's – инвестиции в короля фастфуда",
+    "min_sum": "10000.00",
+    "currency": "RUB",
+    "type_name": "Участие EB",
+    "participation_rate": "1.25",
+    "direction": "Рост",
+    "additional_koeff": null,
+    "preterm_koeff": null,
+    "price_koeff": null,
+    "delivery_koeff": null,
+    "capital_protection_level": "0.000000",
+    "barrier": "1.0000",
+    "delivery_price_percent": null,
+    "nominal": null,
+    "period_quantity": null,
+    "risk_ratio": "0.5000",
+    "period_length": null,
+    "is_actual": true,
+    "risk_profile": "31CDEAC8-2FA3-4DB2-AB02-1E6F89C1D493",
+    "is_investment_idea": true,
+    "calculated_rate": null,
+    "barrier2": null,
+    "calculation_currency": "RUB",
+    "contract": {
+      "execution_date": "2020-03-13"
+    },
+    "expected_income": {
+      "first": null,
+      "second": null
+    },
+    "period": {
+      "start_date": "2019-12-10T18:01:00",
+      "stop_date": "2019-12-12T18:00:00"
+    },
+    "base_assets_list": {
+      "base_asset": {
+        "id": "29959EC2-CB56-41B9-9C6F-EC70BACF7CC6",
+        "price_execution": null,
+        "name": {
+          "full": "McDonald's Corporation",
+          "short": "McDonald's",
+          "code": "MCD"
+        },
+        "base_asset_currency": "доллар США",
+        "issuer_name": "McDonald's Corporation, ",
+        "kind": "1 (одна) обыкновенная акция ",
+        "isin": "ISIN US5801351017",
+        "state_reg_number": null,
+        "type_account_depo": "TS3",
+        "stock_exchange_name": "New York Stock Exchange LLC",
+        "transcript": "1 (одна) обыкновенная акция McDonald's Corporation,  ISIN US5801351017 – ценная бумага MCDONALDS CORP, которой присвоены коды US5801351017 и CFI ESVUFR, квалифицированная как акция (согласно Указанию Банка России от 03.10.2017 № 4561-У «О порядке квалификации иностранных финансовых инструментов в качестве ценных бумаг»), обращающаяся на бирже New York Stock Exchange LLC (Нью Йорк Сток Эксчендж ЭлЭлСи).",
+        "weight_koeff": "1.0000",
+        "type": "Иностранные акции"
+      }
+    },
+    "props": {
+      "_id": "5db1d82e7ebecb4f403ec7a5",
+      "offer_name": "McDonald's – инвестиции в короля фастфуда",
+      "color": "#edbc09",
+      "disclaimer": "",
+      "slug": "mcdonalds",
+      "subtitle": "",
+      "preview_picture": "",
+      "detail_picture": "/storage/media/984982029c99f5ae15ebcf6ee2fcbed4.svg",
+      "updated_at": "2019-10-24 20:06:42",
+      "created_at": "2019-10-24 19:58:22"
+    },
+    "updated_at": "2019-12-10 16:21:45",
+    "created_at": "2019-12-10 16:21:45"
+  },
+  {
+    "_id": "5def9bfd7ebecb79455f6712",
+    "code": "D8F68875-C955-41A0-9B44-1CAD6C17A762",
+    "name": "Facebook – инвестиции в глобальную соцсеть",
+    "min_sum": "10000.00",
+    "currency": "RUB",
+    "type_name": "Участие EB",
+    "participation_rate": "1.25",
+    "direction": "Рост",
+    "additional_koeff": null,
+    "preterm_koeff": null,
+    "price_koeff": null,
+    "delivery_koeff": null,
+    "capital_protection_level": "0.000000",
+    "barrier": "1.0000",
+    "delivery_price_percent": null,
+    "nominal": null,
+    "period_quantity": null,
+    "risk_ratio": "1.0000",
+    "period_length": null,
+    "is_actual": true,
+    "risk_profile": "31CDEAC8-2FA3-4DB2-AB02-1E6F89C1D493",
+    "is_investment_idea": true,
+    "calculated_rate": null,
+    "barrier2": null,
+    "calculation_currency": "RUB",
+    "contract": {
+      "execution_date": "2020-03-13"
+    },
+    "expected_income": {
+      "first": null,
+      "second": null
+    },
+    "period": {
+      "start_date": "2019-12-10T18:01:00",
+      "stop_date": "2019-12-12T18:00:00"
+    },
+    "base_assets_list": {
+      "base_asset": {
+        "id": "C4B6FB29-7C00-4885-9A76-6FAC130F29B5",
+        "price_execution": null,
+        "name": {
+          "full": "Facebook Inc.",
+          "short": "Facebook",
+          "code": "FB"
+        },
+        "base_asset_currency": "доллар США",
+        "issuer_name": "Facebook Inc. ",
+        "kind": "1 (одна) акция класса A",
+        "isin": "ISIN US30303M1027",
+        "state_reg_number": null,
+        "type_account_depo": "TS3",
+        "stock_exchange_name": "NASDAQ",
+        "transcript": "1 (одна) акция класса A Facebook Inc. (ISIN US30303M1027) – ценная бумага FACEBOOK INC, которой присвоены коды ISIN US30303M1027 и CFI ESVUFR, квалифицированная как акция (согласно Указанию Банка России от 03.10.2017 № 4561-У «О порядке квалификации иностранных финансовых инструментов в качестве ценных бумаг»), обращающаяся на бирже NASDAQ (Насдак).",
+        "weight_koeff": "1.0000",
+        "type": "Иностранные акции"
+      }
+    },
+    "props": {
+      "_id": "5db1d8097ebecb4f4f6234b3",
+      "offer_name": "Facebook – инвестиции в глобальную соцсеть",
+      "color": "#3b65b6",
+      "disclaimer": "",
+      "slug": "fb",
+      "subtitle": "",
+      "preview_picture": "",
+      "detail_picture": "/storage/media/2b35b9ee4fa9f75cd9e32e3b5f6006cc.svg",
+      "updated_at": "2019-10-24 20:06:26",
+      "created_at": "2019-10-24 19:57:45"
+    },
+    "updated_at": "2019-12-10 16:22:05",
+    "created_at": "2019-12-10 16:22:05"
+  },
+  {
+    "_id": "5def9c1b7ebecb0a930d3ab2",
+    "code": "B25BCF16-3B13-4993-99A7-76570BB59A43",
+    "name": "Amazon – инвестиции в мирового ритейлера",
+    "min_sum": "10000.00",
+    "currency": "RUB",
+    "type_name": "Участие EB",
+    "participation_rate": "1.25",
+    "direction": "Рост",
+    "additional_koeff": null,
+    "preterm_koeff": null,
+    "price_koeff": null,
+    "delivery_koeff": null,
+    "capital_protection_level": "0.000000",
+    "barrier": "1.0000",
+    "delivery_price_percent": null,
+    "nominal": null,
+    "period_quantity": null,
+    "risk_ratio": "1.0000",
+    "period_length": null,
+    "is_actual": true,
+    "risk_profile": "31CDEAC8-2FA3-4DB2-AB02-1E6F89C1D493",
+    "is_investment_idea": true,
+    "calculated_rate": null,
+    "barrier2": null,
+    "calculation_currency": "RUB",
+    "contract": {
+      "execution_date": "2020-03-13"
+    },
+    "expected_income": {
+      "first": null,
+      "second": null
+    },
+    "period": {
+      "start_date": "2019-12-10T18:01:00",
+      "stop_date": "2019-12-13T18:00:00"
+    },
+    "base_assets_list": {
+      "base_asset": {
+        "id": "2214234F-2053-4C6D-A9F1-DE0E0D257FD5",
+        "price_execution": null,
+        "name": {
+          "full": "Amazon.com",
+          "short": "Amazon",
+          "code": "AMZN"
+        },
+        "base_asset_currency": "доллар США",
+        "issuer_name": "Amazon.com Inc., ",
+        "kind": "1 (одна) обыкновенная акция",
+        "isin": "ISIN US0231351067",
+        "state_reg_number": null,
+        "type_account_depo": "TS3",
+        "stock_exchange_name": "NASDAQ",
+        "transcript": "1 (одна) обыкновенная акция Amazon.com Inc., ISIN US0231351067 – ценная бумага AMAZON COM INC, которой присвоены коды ISIN US0231351067 и CFI ESVUFR, квалифицированная как акция (согласно Указанию Банка России от 03.10.2017 № 4561-У «О порядке квалификации иностранных финансовых инструментов в качестве ценных бумаг»), обращающаяся на бирже NASDAQ (Насдак).",
+        "weight_koeff": "1.0000",
+        "type": "Иностранные акции"
+      }
+    },
+    "props": {
+      "_id": "5db1d7e57ebecb4f57643a02",
+      "offer_name": "Amazon – инвестиции в мирового ритейлера",
+      "color": "#c4871e",
+      "disclaimer": "",
+      "slug": "amazon",
+      "subtitle": "",
+      "preview_picture": "",
+      "detail_picture": "/storage/media/1896b6436dc53f35e6ccf8b3822fbaab.svg",
+      "updated_at": "2019-10-24 20:06:06",
+      "created_at": "2019-10-24 19:57:09"
+    },
+    "updated_at": "2019-12-10 16:22:35",
+    "created_at": "2019-12-10 16:22:35"
+  },
+  {
+    "_id": "5def9c4e7ebecb0a9530ab62",
+    "code": "FA8677F4-1D63-407A-8044-40C53E6EA75F",
+    "name": "Disney – инвестиции в гиганта развлечений",
+    "min_sum": "10000.00",
+    "currency": "RUB",
+    "type_name": "Участие EB",
+    "participation_rate": null,
+    "direction": "Рост",
+    "additional_koeff": null,
+    "preterm_koeff": null,
+    "price_koeff": null,
+    "delivery_koeff": null,
+    "capital_protection_level": "0.000000",
+    "barrier": "1.0000",
+    "delivery_price_percent": null,
+    "nominal": null,
+    "period_quantity": null,
+    "risk_ratio": "1.0000",
+    "period_length": null,
+    "is_actual": true,
+    "risk_profile": "31CDEAC8-2FA3-4DB2-AB02-1E6F89C1D493",
+    "is_investment_idea": true,
+    "calculated_rate": null,
+    "barrier2": null,
+    "calculation_currency": "RUB",
+    "contract": {
+      "execution_date": "2020-03-13"
+    },
+    "expected_income": {
+      "first": null,
+      "second": null
+    },
+    "period": {
+      "start_date": "2019-12-10T18:01:00",
+      "stop_date": "2019-12-12T18:00:00"
+    },
+    "base_assets_list": {
+      "base_asset": {
+        "id": "FE732F93-FEF5-450E-815B-EC2F4B9D386B",
+        "price_execution": null,
+        "name": {
+          "full": "The Walt Disney Company",
+          "short": "Disney",
+          "code": "DIS"
+        },
+        "base_asset_currency": "доллар США",
+        "issuer_name": "The Walt Disney Company, ",
+        "kind": "1 (одна) обыкновенная акция ",
+        "isin": "ISIN US2546871060",
+        "state_reg_number": null,
+        "type_account_depo": "TS3",
+        "stock_exchange_name": "New York Stock Exchange LLC",
+        "transcript": "1 (одна) обыкновенная акция The Walt Disney Company, ISIN US2546871060 – ценная бумага DISNEY WALT CO, которой присвоены коды ISIN US2546871060 и CFI ESVUFR, квалифицированная как акция (согласно Указанию Банка России от 03.10.2017 № 4561-У «О порядке квалификации иностранных финансовых инструментов в качестве ценных бумаг»), обращающаяся на бирже New York Stock Exchange LLC (Нью Йорк Сток Эксчендж ЭлЭлСи).",
+        "weight_koeff": "1.0000",
+        "type": "Иностранные акции"
+      }
+    },
+    "props": {
+      "_id": "5db1d7c27ebecb56677747b3",
+      "offer_name": "Disney – инвестиции в гиганта развлечений",
+      "color": "#593ddf",
+      "disclaimer": "",
+      "slug": "disney",
+      "subtitle": "",
+      "preview_picture": "",
+      "detail_picture": "/storage/media/62e02e8f6996d501e0a382033db933b6.svg",
+      "updated_at": "2019-10-24 20:05:45",
+      "created_at": "2019-10-24 19:56:34"
+    },
+    "updated_at": "2019-12-10 16:23:26",
+    "created_at": "2019-12-10 16:23:26"
+  },
+  {
+    "_id": "5def9c627ebecb445d6cdb92",
+    "code": "6B4FDDFB-E108-4CC7-9908-E8E88E721734",
+    "name": "Золото – инвестиции в драгметаллы",
+    "min_sum": "10000.00",
+    "currency": "RUB",
+    "type_name": "Участие EB",
+    "participation_rate": null,
+    "direction": "Рост",
+    "additional_koeff": null,
+    "preterm_koeff": null,
+    "price_koeff": null,
+    "delivery_koeff": null,
+    "capital_protection_level": "0.000000",
+    "barrier": "1.0000",
+    "delivery_price_percent": null,
+    "nominal": null,
+    "period_quantity": null,
+    "risk_ratio": "1.0000",
+    "period_length": null,
+    "is_actual": true,
+    "risk_profile": "31CDEAC8-2FA3-4DB2-AB02-1E6F89C1D493",
+    "is_investment_idea": true,
+    "calculated_rate": null,
+    "barrier2": null,
+    "calculation_currency": "RUB",
+    "contract": {
+      "execution_date": "2020-03-13"
+    },
+    "expected_income": {
+      "first": null,
+      "second": null
+    },
+    "period": {
+      "start_date": "2019-12-10T18:01:00",
+      "stop_date": "2019-12-12T18:00:00"
+    },
+    "base_assets_list": {
+      "base_asset": {
+        "id": "646C5CCF-69AE-4C4B-A5AC-E7288455F29E",
+        "price_execution": null,
+        "name": {
+          "full": "Золото",
+          "short": "Золото",
+          "code": "GOLD"
+        },
+        "base_asset_currency": "доллар США",
+        "issuer_name": "Золото",
+        "kind": null,
+        "isin": ".",
+        "state_reg_number": null,
+        "type_account_depo": null,
+        "stock_exchange_name": "-",
+        "transcript": "Золото - одна тройская унция аффинированного золота в слитках на лондонском рынке наличного металла «The London Bullion Market Association».",
+        "weight_koeff": "1.0000",
+        "type": "Товары"
+      }
+    },
+    "props": {
+      "_id": "5db1d79a7ebecb4f4b67bd04",
+      "offer_name": "Золото – инвестиции в драгметаллы",
+      "color": "#e4940f",
+      "disclaimer": "",
+      "slug": "au",
+      "subtitle": "",
+      "preview_picture": "",
+      "detail_picture": "/storage/media/9875b2e467a77c2f4ab393c65eb126c9.svg",
+      "updated_at": "2019-10-24 20:05:25",
+      "created_at": "2019-10-24 19:55:54"
+    },
+    "updated_at": "2019-12-10 16:23:46",
+    "created_at": "2019-12-10 16:23:46"
+  }
+]
