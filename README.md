@@ -1,1 +1,1 @@
-https://pelyandex.github.io/bks/
+https://pelyandex.github.io/a_bks/
